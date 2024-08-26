@@ -1,5 +1,9 @@
 # git-hub-demo1
 
-Astazi invatam despre git hub!
+Astazi invatam despre GitHub!
 
-Urmeaza comanda git pull
+Comenzi utile despre GitHub:
+-git add
+-git commit
+-git push
+-git pull
