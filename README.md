@@ -2,4 +2,4 @@
 
 Astazi invatam despre git hub!
 
-
+Urmeaza comanda git pull
